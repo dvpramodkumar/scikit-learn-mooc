@@ -1,9 +1,5 @@
 # scikit-learn course
 
-**NOTE**: You can [register](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn)
-to the "Machine learning in Python with scikit-learn MOOC" which is based on
-this repo. The MOOC will run from May 18, 2021 to July 14, 2021.
-
 The MOOC is hosted on the [FUN-MOOC](https://fun-mooc.fr/) platform which
 is free and does not use the student data for any other purpose than improving
 the educational material.
@@ -26,7 +22,3 @@ A few different ways are available:
 ## Running the notebooks locally
 
 See instructions [here](./local-install-instructions.md)
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
